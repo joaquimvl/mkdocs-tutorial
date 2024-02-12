@@ -1,0 +1,15 @@
+site_name: Calculations Docs
+
+plugins:
+  - mkdocstrings
+  - search
+
+theme:
+  name: material
+
+nav:
+  - Calculation Docs: index.md
+  - tutorials.md
+  - How-To Guides: how-to-guides.md
+  - reference.md
+  - explanation.md
